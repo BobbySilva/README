@@ -8,4 +8,4 @@
      <li>CSS3</li>
      <li>JS</li>
   </ol>
- 
+<img src="https://media1.giphy.com/media/N3NGMfgLLviTymncX1/giphy.gif?cid=ecf05e47rw9nxb7fh1hd7rkvnxh0mvk7k3ajg7wxaipyhkvx&rid=giphy.gif&ct=g" />
