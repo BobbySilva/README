@@ -1,5 +1,5 @@
 <h1 align="center">Hello GitHub</h1>
-  <p align="justify"> 😉 I'm Bobby a Computer Science enthusiast. 👍</p>
+  <p align="justify"> 😉 I'm 80667 a Computer Science enthusiast. 👍</p>
 <h2 align="center">Planning for learning</h2>
   <ol>
      <li>Git</li>
