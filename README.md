@@ -1,4 +1,4 @@
-<h1 align="center">Hello GitHub</h1>
+<h1 align="center">Welcome!</h1>
   <p align="justify">  I'm  a Computer Science enthusiast. </p>
 <h2 align="center">Planning for learning</h2>
   <ol>
